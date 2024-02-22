@@ -3,12 +3,28 @@ name = "compars"
 description = "Bear-agnostic DataFrame comparison library"
 version = "0.0.1"
 authors = [
-  { name = "Hadar Sharon", email = "hadar.sharon94@gmail.com" },
+    { name = "Hadar Sharon", email = "hadar.sharon94@gmail.com" },
 ]
 requires-python = ">=3.10"
 license = { file = "LICENSE" }
 readme = "README.md"
 keywords = ["python", "rust", "spark", "pandas", "pyspark", "data-engineering", "dataframe", "dataframes", "data-quality", "data-profiling", "koalas", "polars"]
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Rust",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Software Development",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Software Development :: Quality Assurance",
+    "Topic :: Software Development :: Testing"
+]
 
 [project.urls]
 Documentation = "https://github.com/hadarsharon/compars/wiki"
