@@ -1,8 +1,4 @@
-<center>
-
 # compars (WIP)
-
-<hr>
 
 [![Code style: Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v2.json&label=Formatter)](https://github.com/charliermarsh/ruff)
 [![Linting: Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v2.json&label=Linter)](https://github.com/charliermarsh/ruff)
@@ -10,6 +6,4 @@
 
 <hr>
 
-compars is a simple-yet-comprehensive, bear-agnostic :bear: :panda_face: :koala: DataFrame comparison library, powered by Rust with polars. 
-
-</center>
+compars is a simple-yet-comprehensive, bear-agnostic :bear: :panda_face: :koala: DataFrame comparison library, powered by Rust with polars.
