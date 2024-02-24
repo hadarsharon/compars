@@ -6,6 +6,6 @@
 
 <hr>
 
-DataFrame comparison done right, powered by Rust with polars 
+DataFrame comparison done right, powered by Rust with polars
 
 (AKA the bear-agnostic :bear: :panda_face: :koala: DataFrame comparison library)

@@ -1,5 +1,5 @@
-pre-commit==3.6.2 # pre-commit hooks
 pandas==2.2.1 # support for pandas DataFrames
 polars==0.20.10 # support for polars DataFrames
+pre-commit==3.6.2 # pre-commit hooks
 pyspark==3.5.0 # support for spark DataFrames
 ruff==0.2.2 # linting
