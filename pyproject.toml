@@ -1,6 +1,6 @@
 [project]
 name = "compars"
-description = "Bear-agnostic DataFrame comparison library"
+description = "DataFrame comparison done right (AKA the Bear-agnostic DataFrame comparison library)"
 version = "0.0.1"
 authors = [
     { name = "Hadar Sharon", email = "hadar.sharon94@gmail.com" },

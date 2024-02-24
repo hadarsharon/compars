@@ -8,4 +8,4 @@
 
 DataFrame comparison done right, powered by Rust with polars 
 
-(AKA the bear-agnostic :bear: :panda_face: :koala: DataFrame comparison library).
+(AKA the bear-agnostic :bear: :panda_face: :koala: DataFrame comparison library)
