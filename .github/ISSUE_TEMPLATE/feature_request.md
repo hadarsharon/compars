@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for polars
+about: Suggest an idea for compars
 title: "[ENH] "
 labels: enhancement
 assignees: hadarsharon
