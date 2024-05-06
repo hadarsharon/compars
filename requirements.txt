@@ -5,4 +5,4 @@ polars==0.20.10 # support for polars DataFrames
 pre-commit==3.6.2 # pre-commit hooks
 pyspark==3.5.0 # support for spark DataFrames
 pytest==8.0.1 # testing framework
-ruff==0.2.2 # formatter/linter
+ruff==0.4.3 # formatter/linter
