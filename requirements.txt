@@ -1,7 +1,7 @@
 dask==2024.2.1 # support for dask DataFrames
 modin[dask]==0.27.0 # support for modin DataFrames
 pandas==2.2.1 # support for pandas DataFrames
-polars==0.20.10 # support for polars DataFrames
+polars==0.20.25 # support for polars DataFrames
 pre-commit==3.6.2 # pre-commit hooks
 pyspark==3.5.0 # support for spark DataFrames
 pytest==8.0.1 # testing framework
